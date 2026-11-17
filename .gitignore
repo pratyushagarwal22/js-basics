@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+*.log
+
+# Secrets
+.env
+.env.*
+
+# macOS and editors
+.DS_Store
+.vscode/
+.idea/
